@@ -1,0 +1,50 @@
+#rowDiv{
+    margin:auto;
+    text-align: center;
+    width: 38%;
+}
+input[type="text"]{
+    height:40px;
+    font-size:20px;
+
+}
+#submitWeather{
+    height:40px;
+    font-size:20px;
+    font-weight: bold;
+}
+#skyVideo {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%; 
+    min-height: 100%;
+    z-index: -1;
+    }
+
+.jumbotron {
+background-color: rgba(0, 1, 20, 0.301);
+color: white;
+margin-bottom:0px;
+}
+#display {
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+#fel {
+    text-align: center;
+    width: 30%;
+    margin: auto;
+    font-weight: bold;
+    font-size: 18px;
+}
+footer{
+    background-color:rgba(0, 1, 20, 0.301);
+    text-align: center;
+    margin-top: 30px;
+    height: 50px;
+    color: white;
+    
+}
